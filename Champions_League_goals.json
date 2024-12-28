@@ -1,0 +1,352 @@
+[
+    {
+        "position": "1",
+        "team": "Red Star Belgrade",
+        "goals": {
+            "General": "88%"
+        }
+    },
+    {
+        "position": "2",
+        "team": "Salzburg",
+        "goals": {
+            "General": "70%"
+        }
+    },
+    {
+        "position": "3",
+        "team": "Atlético Madrid",
+        "goals": {
+            "General": "100%"
+        }
+    },
+    {
+        "position": "4",
+        "team": "Feyenoord",
+        "goals": {
+            "General": "100%"
+        }
+    },
+    {
+        "position": "5",
+        "team": "Barcelona",
+        "goals": {
+            "General": "100%"
+        }
+    },
+    {
+        "position": "6",
+        "team": "Milan",
+        "goals": {
+            "General": "83%"
+        }
+    },
+    {
+        "position": "7",
+        "team": "Borussia Dortmund",
+        "goals": {
+            "General": "83%"
+        }
+    },
+    {
+        "position": "8",
+        "team": "Monaco",
+        "goals": {
+            "General": "83%"
+        }
+    },
+    {
+        "position": "9",
+        "team": "RB Leipzig",
+        "goals": {
+            "General": "67%"
+        }
+    },
+    {
+        "position": "10",
+        "team": "Real Madrid",
+        "goals": {
+            "General": "67%"
+        }
+    },
+    {
+        "position": "11",
+        "team": "Brest",
+        "goals": {
+            "General": "67%"
+        }
+    },
+    {
+        "position": "12",
+        "team": "Manchester City",
+        "goals": {
+            "General": "67%"
+        }
+    },
+    {
+        "position": "13",
+        "team": "Benfica",
+        "goals": {
+            "General": "67%"
+        }
+    },
+    {
+        "position": "14",
+        "team": "Shakhtar Donetsk",
+        "goals": {
+            "General": "67%"
+        }
+    },
+    {
+        "position": "15",
+        "team": "UE Santa Coloma",
+        "goals": {
+            "General": "75%"
+        }
+    },
+    {
+        "position": "16",
+        "team": "Celtic",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "17",
+        "team": "Bayer Leverkusen",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "18",
+        "team": "Stuttgart",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "19",
+        "team": "Atalanta",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "20",
+        "team": "PSV",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "21",
+        "team": "Club Brugge",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "22",
+        "team": "Bayern München",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "23",
+        "team": "Celje",
+        "goals": {
+            "General": "75%"
+        }
+    },
+    {
+        "position": "24",
+        "team": "Sporting",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "25",
+        "team": "The New Saints",
+        "goals": {
+            "General": "75%"
+        }
+    },
+    {
+        "position": "26",
+        "team": "FCSB",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "27",
+        "team": "Fenerbahçe",
+        "goals": {
+            "General": "75%"
+        }
+    },
+    {
+        "position": "28",
+        "team": "Slavia Praha",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "29",
+        "team": "Twente",
+        "goals": {
+            "General": "100%"
+        }
+    },
+    {
+        "position": "30",
+        "team": "Arsenal",
+        "goals": {
+            "General": "33%"
+        }
+    },
+    {
+        "position": "31",
+        "team": "Juventus",
+        "goals": {
+            "General": "33%"
+        }
+    },
+    {
+        "position": "32",
+        "team": "Aston Villa",
+        "goals": {
+            "General": "33%"
+        }
+    },
+    {
+        "position": "33",
+        "team": "Girona",
+        "goals": {
+            "General": "33%"
+        }
+    },
+    {
+        "position": "34",
+        "team": "PSG",
+        "goals": {
+            "General": "33%"
+        }
+    },
+    {
+        "position": "35",
+        "team": "Liverpool",
+        "goals": {
+            "General": "33%"
+        }
+    },
+    {
+        "position": "36",
+        "team": "Sturm Graz",
+        "goals": {
+            "General": "33%"
+        }
+    },
+    {
+        "position": "37",
+        "team": "KÍ",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "38",
+        "team": "Borac Banja Luka",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "39",
+        "team": "Shamrock Rovers",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "40",
+        "team": "Larne",
+        "goals": {
+            "General": "100%"
+        }
+    },
+    {
+        "position": "41",
+        "team": "Tallinna FC Flora",
+        "goals": {
+            "General": "100%"
+        }
+    },
+    {
+        "position": "42",
+        "team": "Union Saint-Gilloise",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "43",
+        "team": "Bologna",
+        "goals": {
+            "General": "17%"
+        }
+    },
+    {
+        "position": "44",
+        "team": "Internazionale",
+        "goals": {
+            "General": "17%"
+        }
+    },
+    {
+        "position": "45",
+        "team": "Víkingur Reykjavík",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "46",
+        "team": "Egnatia Rrogozhinë",
+        "goals": {
+            "General": "50%"
+        }
+    },
+    {
+        "position": "47",
+        "team": "Lincoln Red Imps",
+        "goals": {
+            "General": "25%"
+        }
+    },
+    {
+        "position": "48",
+        "team": "Differdange 03",
+        "goals": {
+            "General": "0%"
+        }
+    },
+    {
+        "position": "49",
+        "team": "Rangers",
+        "goals": {
+            "General": "0%"
+        }
+    },
+    {
+        "position": "50",
+        "team": "Hamrun Spartans",
+        "goals": {
+            "General": "0%"
+        }
+    }
+]
